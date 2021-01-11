@@ -24,6 +24,7 @@ gem 'toastr-rails'
 gem 'carrierwave', '~> 2.0'
 gem 'cloudinary'
 gem "figaro"
+gem 'dropzonejs-rails'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
